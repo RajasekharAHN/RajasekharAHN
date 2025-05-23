@@ -1,37 +1,75 @@
-- 👋 Hi, I’m @Rajasekhar
+# 👋 Hi there, I'm Hima Naga Rajasekhar Alamanda
 
--  Passionate learner exploring technology, especially intrested in computer science and AI. Pursued undergrad in CS with AI specialization at Amrita School of Engineering, Benguluru. And Currently pursuing Master's at UTA.
+💻 **Software Developer** | 🧠 **Aspiring Machine Learning Engineer** | 🌐 **Full Stack Developer**
 
-- 👀 I’m interested in
-                       - **Artificial Intelligence:** I'm deeply passionate about AI and its potential to transform industries, solve complex problems, and improve lives.
-                       - **Machine Learning:** Exploring algorithms and techniques to enable machines to learn from data and make intelligent decisions fascinates me.
-                       - **Data Science:** I enjoy uncovering insights from data and leveraging them to drive informed decisions and create impactful solutions.
-                       - **Frontend Development:** While my primary focus is AI, I also work with frontend technologies like **HTML, CSS, JavaScript, React**, and **MongoDB** to build interactive user experiences.
+---
 
--  My Academic Journey
-      - **Undergraduate Studies:** I honed my skills and knowledge in computer science at Amrita School of Engineering.
-      - **Graduate Studies:** Now at UTA, I'm expanding my expertise and exploring advanced topics in artificial intelligence, machine learning, and their real-world applications.
+🎓 Currently pursuing my **Master’s in Computer and Information Sciences** at *Southern Arkansas University*, with a strong foundation in Artificial Intelligence and Full Stack Web Development.
 
-- 🌱 I’m currently learning
-  - Cloud Computing & AI integration  
-  - Advanced Deep Learning techniques   
-  - Building scalable AI-powered applications  
-  - Enhancing frontend skills with React.js
-    
-- 💞️ I’m looking to collaborate on
-  - Open-source AI/ML projects  
-  - AI-driven web and mobile applications  
-  - Research projects in AI and predictive modeling  
-  - Full-stack AI applications using **React.js** & **Flask/Django**
-    
-- 📫 How to reach me 
-   **Email:** himanthalamanda03@gmail.com
-  
-- 😄 Pronouns: He/Him
-  
-- ⚡ Fun fact: I love exploring new AI trends and enjoy playing cricket, badminton, and hockey in my free time!  
+🧠 Passionate about building scalable, intelligent systems that bridge **AI, Web Development, and Cloud Computing**. I’m always exploring new technologies, solving real-world problems, and contributing to innovative projects.
 
-<!---
-RajasekharAHN/RajasekharAHN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on: **AI-powered Resume Analyzer**, leveraging NLP and BERT to match resumes to job descriptions.
+- 🌱 I’m learning: **Advanced Deep Learning**, **Cloud Inference (AWS)**, **Microservices**, and **MERN stack full-stack workflows**.
+- 👯 I’m looking to collaborate on:
+  - AI/ML research and open-source projects
+  - Full-stack web applications using **React**, **Flask**, **Node.js**
+  - Real-time inference systems for healthcare, productivity, and automation
+- 💬 Ask me about:
+  - Model deployment (TensorFlow, PyTorch)
+  - Resume optimization tools with BERT
+  - Full stack app design with Firebase, Supabase
+  - Agile development and cross-functional collaboration
+
+---
+
+## 💼 Professional Experience
+
+**Full Stack Developer – Reelin (Remote)**  
+*Jun 2023 – Dec 2023*  
+- Contributed to building a responsive front-end using **Next.js** for enhanced user experiences.  
+- Integrated **Supabase** for real-time data management and authentication flows.  
+- Proposed and co-developed a **Marketing AI Agent** using NLP to automate content recommendations and generation.  
+- Optimized backend performance through query refinement and collaborative debugging sessions.  
+- Participated in cross-functional alignment of AI tools with marketing goals.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, SQL, Java  
+**Frameworks:** React.js, Flask, Express.js, Node.js, Tailwind CSS, Redux  
+**AI/ML:** TensorFlow, PyTorch, Keras, Scikit-learn, NLP, Active Learning  
+**Databases:** MongoDB, MySQL, SQL Server  
+**Tools:** Git, GitHub, Docker, Firebase, Supabase, Google Colab, Jupyter  
+**Other:** REST APIs, Microservices, CI/CD, Unit Testing, Agile/SCRUM
+
+---
+
+## 📂 Notable Projects
+
+🔹 [Resume SkillMatch Analyzer](https://github.com/RajasekharAHN/Resume-SkillMatch-Analyzer)  
+*AI-powered tool to evaluate resume-job fit using NLP and BERT with real-time feedback and resume optimization.*
+
+🔹 [Epilepsy MRI Classifier](https://ieeexplore.ieee.org/document/10725979)  
+*Achieved 97.16% accuracy with an ensemble model combining VGG19 and LSTM for medical image classification.*
+
+🔹 Face Mask Detection using CNN & Active Learning  
+*Implemented PyTorch + OpenCV pipeline for real-time mask detection with minimal labeled data.*
+
+---
+
+## 📬 Connect with Me
+
+- 📧 Email: [himanthalamanda03@gmail.com](mailto:himanthalamanda03@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/hima-naga-rajasekhar-alamanda)  
+- 🌐 [Portfolio](https://www.reelin.me/portfolio/himanth)  
+- 💻 [GitHub](https://github.com/RajasekharAHN)
+
+---
+
+### ⚡ Fun Fact:
+I love blending tech with creativity — when I’m not coding, you’ll find me playing cricket, badminton, or diving into the latest AI trends!
