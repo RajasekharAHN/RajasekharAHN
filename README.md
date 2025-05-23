@@ -4,7 +4,7 @@
 
 ---
 
-🎓 Currently pursuing my **Master’s in Computer and Information Sciences** at *Southern Arkansas University*, with a strong foundation in Artificial Intelligence and Full Stack Web Development.
+🎓 Currently pursuing my **Master’s in Computer and Information Sciences** at *Southern Arkansas University*, with a strong foundation in Machine Learning and Full Stack Web Development.
 
 🧠 Passionate about building scalable, intelligent systems that bridge **AI, Web Development, and Cloud Computing**. I’m always exploring new technologies, solving real-world problems, and contributing to innovative projects.
 
