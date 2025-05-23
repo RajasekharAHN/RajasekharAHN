@@ -57,8 +57,9 @@
 🔹 [Epilepsy MRI Classifier](https://ieeexplore.ieee.org/document/10725979)  
 *Achieved 97.16% accuracy with an ensemble model combining VGG19 and LSTM for medical image classification.*
 
-🔹 [Face Mask Detection using CNN & Active Learning](https://ieeexplore.ieee.org/document/10205914)
-*Implemented PyTorch + OpenCV pipeline for real-time mask detection with minimal labeled data.*
+🔹 [Face Mask Detection using CNN & Active Learning](https://ieeexplore.ieee.org/document/10205914)  
+*Published system implemented PyTorch + OpenCV pipeline for real-time face mask detection using CNNs and five active learning strategies, achieving significant accuracy gains with minimal labeled data.*
+
 
 ---
 
