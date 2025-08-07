@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hima Naga Rajasekhar Alamanda
 
-🧠 **Machine Learning Engineer | Cloud-Native AI Specialist | Full-Stack Developer**
+🧠 **Machine Learning Engineer | Full-Stack Developer**
 
 ---
 
