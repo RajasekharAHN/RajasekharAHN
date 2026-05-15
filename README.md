@@ -1,99 +1,86 @@
-# 👋 Hi there, I'm Hima Naga Rajasekhar Alamanda
+# Hima Naga Rajasekhar Alamanda
 
-🧠 **Machine Learning Engineer | Full-Stack Developer**
+**AI/GenAI Engineer · Data Scientist · ML Engineer · Full-Stack AI Developer**
 
----
-
-🎓 Pursuing **Master’s in Computer and Information Sciences** at *Southern Arkansas University* (CGPA: 3.7/4.0)  
-📍 Based in Dallas, TX | 💻 3+ years of experience in building scalable AI systems across domains
+Building production-grade AI systems across RAG, multi-agent workflows, Text-to-SQL, and applied deep learning. Master's in Computer and Information Sciences with a B.Tech in Computer Science (AI specialization) and two first-author IEEE publications.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 **Currently working on:**  
-  - Real-time AI-powered content recommendation systems  
-  - Resume-to-job-fit analyzer using BERT and Transformers  
-- 🌱 **Learning & Exploring:**  
-  - Advanced Deep Learning (Transformers, UNet, Autoencoders)  
-  - Cloud-based ML Inference (AWS Lambda, SageMaker)  
-  - MLOps with MLflow + GitHub Actions  
-  - Full-stack Dev with **MERN** & **Firebase/Supabase**
-- 🤝 **Open to collaborate on:**  
-  - End-to-end ML pipelines and MLOps workflows  
-  - AI for Healthcare, NLP, and Productivity tools  
-  - Full-stack applications with intelligent backends
+- Based in Somerset, NJ
+- Master's in Computer and Information Sciences — Southern Arkansas University (GPA: 3.8/4.0)
+- B.Tech in Computer Science, AI Specialization — Amrita Vishwa Vidyapeetham
+- Focused on RAG, LLM evaluation, AI agents, NLP, and label-efficient deep learning
+- Open to roles in AI/GenAI Engineering, Data Science, ML Engineering, and Full-Stack AI Development
 
 ---
 
-## 💼 Experience Highlights
+## Current Work
 
-### 🧠 Machine Learning Engineer – **Reelin (Remote)**  
-*Jun 2024 – May 2025*
-- Built AI recommendation engine using neural embeddings — boosted CTR by 17%  
-- Deployed scalable inference microservices with **PyTorch**, **Docker**, and **Firebase**  
-- Integrated explainable AI using **SHAP**, improved stakeholder transparency  
-- Automated ML workflows using **MLflow**, **GitHub Actions**, and **CloudWatch**
+Data Science Intern at **PCB Apps LLC**, working on:
 
-### 📊 ML Engineer – **Loyalty Juggernaut, Hyderabad**  
-*Aug 2021 – Jul 2023*
-- Developed NLP pipelines for customer intent and sentiment analysis using **BERT & spaCy**  
-- Delivered customer churn prediction models, increasing retention by 30%  
-- Built real-time pipelines with **Kafka + Spark**, processing 50M+ records/month  
-- Reduced model deployment time by 60% with CI/CD & experiment tracking
+- RAG-based AI ticketing assistants on OCI Generative AI with vector retrieval
+- Multi-agent support workflows for intent detection, retrieval, automation, and handoff
+- Text-to-SQL analytics over Oracle ADW for operational reporting
+- SCM EDI validation pipelines (X12 850/855/856/810) surfaced through Oracle APEX
+- Prompt strategy and LLM evaluation across multiple OCI models
 
 ---
 
-## 📂 Projects
+## Experience Highlights
 
-🔹 **[Resume SkillMatch Analyzer](https://github.com/RajasekharAHN/Resume-SkillMatch-Analyzer)**  
-NLP-based resume-to-job-fit scoring system using BERT, Transformers, and real-time optimization feedback
+**Data Science Intern — PCB Apps LLC** (Feb 2026 – Present)
+- Engineered a RAG-based AI ticketing assistant over 972 Zoho Desk tickets using OCI Generative AI and vector retrieval, reducing manual ticket lookup time by ~55%.
+- Orchestrated a 5-agent support workflow that auto-resolves ~70% of incoming tickets and escalates unresolved cases with full context.
+- Evaluated the assistant across 64 runs, 4 prompt strategies, and 2 OCI models — reached 0.91 BERTScore and cut average latency by ~35%.
+- Built a Text-to-SQL analytics assistant over 7,550 medication and inventory records in Oracle ADW, saving analysts ~10 hours/week.
+- Delivered an SCM EDI validation pipeline for 4 X12 transaction sets, surfacing intake errors and exceptions in Oracle APEX within 5–8 seconds per file.
 
-🔹 **[Epilepsy MRI Classifier](https://ieeexplore.ieee.org/document/10725979)**  
-97.16% accurate ensemble model using **VGG19 + LSTM** for 3D epilepsy classification and segmentation
-
-🔹 **[Face Mask Detection](https://ieeexplore.ieee.org/document/10205914)**  
-Real-time CNN + Active Learning model deployed on edge devices for video surveillance environments
-
-🔹 **Distributed Sentiment Analysis**  
-Built Apache Spark-based NLP pipeline to analyze 1M+ Amazon reviews using **TF-IDF + Logistic Regression**
-
-🔹 **Cardiovascular Disease Risk Prediction**  
-CNN-UNet-based multimodal system for CVD detection with 91% segmentation accuracy
+**Undergraduate Research Assistant — Amrita Vishwa Vidyapeetham** (Jan 2023 – Jun 2024)
+- Contributed to 2 first-author IEEE publications (CONIT 2023, ICCCNT 2024) on deep learning and computer vision.
+- Built an MRI epilepsy classification pipeline on 7,022 multi-sequence images across 4 classes; evaluated 12 architectures (CNN, MobileNet, InceptionV3, VGG16/19, LSTM, GRU, hybrid ensembles) reaching 97.16% validation accuracy.
+- Implemented an active-learning face-mask detection workflow using only 25% labeled data, reducing annotation effort by ~75% while sustaining ~22 FPS inference.
+- Benchmarked 5 active-learning query strategies across 3,800+ samples, achieving 73–79% gain over random sampling.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-**Languages:** Python, SQL, Bash, JavaScript  
-**Frameworks:** PyTorch, TensorFlow, Keras, React.js, Flask, Express.js, Node.js  
-**DevOps/Cloud:** AWS (Lambda, EC2, S3, SageMaker), Docker, MLflow, GitHub Actions  
-**NLP & CV:** BERT, Transformers, spaCy, OpenCV, NLTK, SHAP  
-**Big Data:** Spark, Kafka, Airflow, Hadoop  
-**Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase  
-**Tools:** Git, Docker, Tableau, Power BI, Weights & Biases
+**AI-Powered Resume Analyzer** — React.js, Flask, Python, REST APIs, Vercel
+- React + Flask platform that ingests PDF, DOCX, and TXT resumes and returns structured analysis through Python REST APIs.
+- NLP-based skill extraction and text-similarity matching against job descriptions, producing 0–100 role-fit scores with gap analysis and recommendations.
+- Deployed on Vercel with an upload-to-results workflow that cuts manual resume review effort by an estimated ~70%.
+- Optimized for 50+ concurrent uploads with sub-second response on cached job descriptions via request batching and in-memory caching.
 
 ---
 
-## 📜 Certifications
+## Tech Stack
 
-- 🏅 **TensorFlow Developer Certificate** – DeepLearning.AI  
-- 🏅 **AWS Certified Machine Learning – Specialty**  
-- 🏅 **Databricks Certified ML Associate**  
-- 🏅 **NLP with BERT & Hugging Face Transformers** – Coursera  
-- 🏅 **MLOps with MLflow & GitHub Actions** – Coursera  
-- 🏅 **Advanced Data Science Specialization** – IBM
+**Languages:** Python, SQL, PL/SQL, JavaScript, HTML/CSS
 
----
+**AI / ML / GenAI:** RAG, NLP, LLM Evaluation, Prompt Engineering, AI Agents, Text-to-SQL, LangChain
 
-## 📬 Let's Connect!
+**Frameworks & APIs:** React.js, Flask, FastAPI, Streamlit, Oracle APEX, REST APIs
 
-- 📧 Email: [himanthalamanda03@gmail.com](mailto:himanthalamanda03@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/hima-naga-rajasekhar-alamanda)  
-- 🌐 [Portfolio](https://www.reelin.me/portfolio/himanth)  
-- 💻 [GitHub](https://github.com/RajasekharAHN)
+**Data & Cloud:** Oracle ADW, MySQL, PostgreSQL, DuckDB, ChromaDB, OCI, OCI Object Storage, Oracle Select AI
+
+**ML / Data Tools:** Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, OpenCV, Matplotlib, Seaborn, MLflow, Power BI
+
+**Engineering:** Docker, Git, CI/CD, Monitoring, Agile, Technical Documentation
 
 ---
 
-### ⚡ Fun Fact:  
-When I’m not working on AI, I’m on the cricket field, smashing boundaries or diving into badminton rallies. I enjoy blending my tech passion with real-world impact 🚀
+## Certifications
+
+- Oracle Data Platform 2025 Certified Foundations Associate
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+
+---
+
+## Contact
+
+- Email: himanthalamanda03@gmail.com
+- LinkedIn: [hima-naga-rajasekhar-alamanda](https://linkedin.com/in/hima-naga-rajasekhar-alamanda)
+- GitHub: [RajasekharAHN](https://github.com/RajasekharAHN)
+- Location: Somerset, NJ
